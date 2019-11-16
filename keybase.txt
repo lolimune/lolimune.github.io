@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/nayaka
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lolimune.github.io
+  * I am nayaka (https://keybase.io/nayaka) on keybase.
+  * I have a public key ASA9Db8DdMxPrmc2V4YcZFWw6eyc0_EHZqxwEtxYXwwCaQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203d0dbf0374cc4fae673657861c6455b0e9ec9cd3f10766ac7012dc585f0c02690a",
+      "host": "keybase.io",
+      "kid": "01203d0dbf0374cc4fae673657861c6455b0e9ec9cd3f10766ac7012dc585f0c02690a",
+      "uid": "bd2eb5d0f9f081e94fb6973005cc1e19",
+      "username": "nayaka"
+    },
+    "merkle_root": {
+      "ctime": 1573928065,
+      "hash": "bd81e238c4e90ef2397790d4e6352b44657209c1a68762c6c35bca7b4b861ae2ac027ceaa3b42abba0ede6788f894a0cd119774f1b06af380299246f599a67b7",
+      "hash_meta": "b7fb483eaf3a7594c6297a2cd4724eed91ce7f17ff653499b70c73e79e299dd0",
+      "seqno": 9847542
+    },
+    "service": {
+      "entropy": "OyNPsUkpjPa0Rikq/1Duj1An",
+      "hostname": "lolimune.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.6.0"
+  },
+  "ctime": 1573928085,
+  "expire_in": 504576000,
+  "prev": "e85e1b39bd19bafadc51a6adfaaf7fb56fdbe0cf0603eaaf55fcdd407cfc1fd2",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgPQ2/A3TMT65nNleGHGRVsOnsnNPxB2ascBLcWF8MAmkKp3BheWxvYWTESpcCCsQg6F4bOb0ZuvrcUaat+q9/tW/b4M8GA+qvVfzdQHz8H9LEIFDpFUwmoCse2VmZXSdvB+9olOf8Czqj4FMDhLHysA5PAgHCo3NpZ8RAdqs1DQWd5wKx9e2qI4wZaBrQaWrcDV3IBULjuVW+yshsfhIGDdK7k+KjnKTKeKxgk5a41e9xaqkUrylgpv8iDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN9s/XibQPpC0NMeCwiywbO+N60qadeElZ0f80DqeWKco3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nayaka
+
+==================================================================
